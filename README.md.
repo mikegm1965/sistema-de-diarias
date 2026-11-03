@@ -1,0 +1,30 @@
+
+# Sistema de Diárias
+
+Aplicativo desktop desenvolvido em Python para calcular valores de diárias de viagem, com interface gráfica simples e intuitiva.
+
+## Tecnologias utilizadas
+
+- Python
+- CustomTkinter
+- PyInstaller
+- Inno Setup Compiler
+
+## Funcionalidades
+
+- Cálculo de diárias comuns e especiais.
+- Cálculo de parcelas adicionais.
+- Interface gráfica para facilitar a utilização.
+- Aplicativo executável para Windows.
+- Instalador próprio para Windows.
+
+## Objetivo do projeto
+
+Projeto desenvolvido para praticar lógica de programação, Python, criação de interfaces gráficas e distribuição de aplicações desktop.
+
+## Desenvolvedor
+
+Michael Vieira Silva
+
+**GitHub:** [github.com/mikegm1965](https://github.com/)
+
